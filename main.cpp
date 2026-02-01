@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace sdt;
+void sort(int arr[],int size){
+	
+}
+int main(){
+	int arr[]={12,4,9,8,13,21,78};
+	int size=sizeof(arr)/sizeof(arr[0]);
+	sort(arr,size);
+	return 0;
+
+}
